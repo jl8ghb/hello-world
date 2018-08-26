@@ -19,3 +19,7 @@ Enumerating objects: 5, done.
 
 4. test if without github desktop, see if git bash work alone is ok
 
+5. ok with git bash work alone without GitHb Desktop
+
+6. test SSH key passphase
+
