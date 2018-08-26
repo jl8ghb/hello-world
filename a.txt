@@ -23,3 +23,5 @@ Enumerating objects: 5, done.
 
 6. test SSH key passphase
 
+7. it ask the passphase; we'll see if next time it wont ask
+
