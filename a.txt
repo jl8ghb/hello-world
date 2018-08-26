@@ -17,3 +17,5 @@ Enumerating objects: 5, done.
 
 3. ok, verified. no auto push for a single commit
 
+4. test if without github desktop, see if git bash work alone is ok
+
