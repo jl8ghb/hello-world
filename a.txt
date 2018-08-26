@@ -33,3 +33,5 @@ Enumerating objects: 5, done.
 	within https://help.github.com/articles/working-with-ssh-key-passphrases/
 	let's see if it works
 
+11. Done with passphase and Auto-launching ssh-agent 
+
