@@ -15,3 +15,5 @@ Enumerating objects: 5, done.
 	observe that, one commit, remote is also update in glog, automatatically push?
 	try this commit
 
+3. ok, verified. no auto push for a single commit
+
