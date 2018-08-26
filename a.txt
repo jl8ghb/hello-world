@@ -27,3 +27,9 @@ Enumerating objects: 5, done.
 
 8. agsin
 
+9. it did ask every time, try find solution
+
+10. as GitHub suggested in "Auto-launching ssh-agent on Git for Windows"
+	within https://help.github.com/articles/working-with-ssh-key-passphrases/
+	let's see if it works
+
