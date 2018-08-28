@@ -1,0 +1,17 @@
+This is only a casual file don't h!!!!!!!!!ave any meaning,
+it's only serve as a text file for test and learn vi/vim command
+
+In command mode 12345678
+arrow key the cursor as usual then add something use a to insert
+use I o inert Shift(/Shift)-arow i move to next word head
+	add I baskSpace, delete3 as usual A adpaced atpace linIe end good
+abc	new line insert 
+   tab(8 char),s, [line return] arepace as paceusual
+abc	new line insert by o ikSpacen command
+her's or her`s
+In command mode 1234578
+*insert mode
+2234
+use direction key to move cursor!!!
+
+
